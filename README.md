@@ -18,6 +18,7 @@ Practicing problem solving and algorithms through LeetCode.
 | ------- |
 | [0013-roman-to-integer](https://github.com/Rantorus/leetcode-solutions/tree/master/0013-roman-to-integer) |
 | [0014-longest-common-prefix](https://github.com/Rantorus/leetcode-solutions/tree/master/0014-longest-common-prefix) |
+| [0020-valid-parentheses](https://github.com/Rantorus/leetcode-solutions/tree/master/0020-valid-parentheses) |
 ## Trie
 |  |
 | ------- |
@@ -27,4 +28,8 @@ Practicing problem solving and algorithms through LeetCode.
 | ------- |
 | [0001-two-sum](https://github.com/Rantorus/leetcode-solutions/tree/master/0001-two-sum) |
 | [0013-roman-to-integer](https://github.com/Rantorus/leetcode-solutions/tree/master/0013-roman-to-integer) |
+## Stack
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/Rantorus/leetcode-solutions/tree/master/0020-valid-parentheses) |
 <!---LeetCode Topics End-->
