@@ -11,6 +11,7 @@ Practicing problem solving and algorithms through LeetCode.
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/Rantorus/leetcode-solutions/tree/master/0001-two-sum) |
 | [0014-longest-common-prefix](https://github.com/Rantorus/leetcode-solutions/tree/master/0014-longest-common-prefix) |
 ## String
 |  |
@@ -24,5 +25,6 @@ Practicing problem solving and algorithms through LeetCode.
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/Rantorus/leetcode-solutions/tree/master/0001-two-sum) |
 | [0013-roman-to-integer](https://github.com/Rantorus/leetcode-solutions/tree/master/0013-roman-to-integer) |
 <!---LeetCode Topics End-->
